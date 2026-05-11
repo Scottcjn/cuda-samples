@@ -63,7 +63,7 @@
 * Replaced "thrust::identity<uint>()" with "cuda::std::identity()" as it is deprecated in CUDA 13.0.
     * `2_Concepts_and_Techniques`
         * `segmentationTreeThrust`
-* Updated the the headers file and samples for CUFFT error codes update.
+* Updated the headers file and samples for CUFFT error codes update.
     * Deprecated CUFFT errors:
         * `CUFFT_INCOMPLETE_PARAMETER_LIST`
         * `CUFFT_PARSE_ERROR`
