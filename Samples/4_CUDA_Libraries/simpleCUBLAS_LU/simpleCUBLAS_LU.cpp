@@ -29,7 +29,7 @@
  * This example demonstrates how to use the cuBLAS library API
  * for lower-upper (LU) decomposition of a matrix. LU decomposition
  * factors a matrix as the product of upper triangular matrix and
- * lower trianglular matrix.
+ * lower triangular matrix.
  *
  * https://en.wikipedia.org/wiki/LU_decomposition
  *
@@ -94,7 +94,7 @@ void *xmalloc(size_t size)
     return ptr;
 }
 
-// initalize identity matrix
+// initialize identity matrix
 void initIdentityMatrix(DATA_TYPE *mat)
 {
     // clear the matrix
@@ -136,7 +136,7 @@ void printMatrix(DATA_TYPE *mat)
     printf("\n");
 }
 
-// matrix mulitplication
+// matrix multiplication
 void matrixMultiply(DATA_TYPE *res, DATA_TYPE *mat1, DATA_TYPE *mat2)
 {
     initZeroMatrix(res);

@@ -200,7 +200,7 @@ int main(int argc, char **argv)
 
     // smoothness
     // if image brightness is not within [0,1]
-    // this paramter should be scaled appropriately
+    // this parameter should be scaled appropriately
     const float alpha = 0.2f;
 
     // number of pyramid levels

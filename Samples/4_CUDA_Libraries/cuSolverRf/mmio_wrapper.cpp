@@ -405,7 +405,7 @@ int loadMMSparseMatrix(char    *filename,
         *aRowInd = (int *)malloc((*nnz) * sizeof(int));
     }
 
-    /* transfrom the matrix values of type double into one of the cusparse library
+    /* transform the matrix values of type double into one of the cusparse library
      * types */
     *aVal = (T_ELEM *)malloc((*nnz) * sizeof(T_ELEM));
 
