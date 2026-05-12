@@ -26,7 +26,7 @@ armv7l
 cudaGraphicsUnmapResources, cudaMemcpy, cudaFree, cudaGraphicsResourceGetMappedPointer, cudaGraphicsMapResources, cudaDeviceSynchronize, cudaGraphicsUnregisterResource, cudaMalloc, cudaGraphicsGLRegisterBuffer
 
 ## Dependencies needed to build/run
-[X11](../../../README.md#x11), [GLES](../../../README.md#gles)
+[X11](../../../../README.md#x11), [GLES](../../../../README.md#gles)
 
 ## Prerequisites
 

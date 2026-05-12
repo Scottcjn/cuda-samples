@@ -29,7 +29,7 @@ cuEventRecord, cuDeviceGetAttribute, cuEventCreate, cuCtxSynchronize, cuEventDes
 cudaMemcpy, cudaGetErrorString, cudaFree, cudaDeviceSynchronize, cudaGetValueMismatch, cudaMalloc
 
 ## Dependencies needed to build/run
-[EGL](../../../README.md#egl), [EGLSync](../../../README.md#eglsync), [X11](../../../README.md#x11), [GLES](../../../README.md#gles)
+[EGL](../../../../README.md#egl), [EGLSync](../../../../README.md#eglsync), [X11](../../../../README.md#x11), [GLES](../../../../README.md#gles)
 
 ## Prerequisites
 

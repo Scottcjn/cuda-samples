@@ -26,7 +26,7 @@ aarch64
 cudaDeviceGetAttribute, cudaNvSciBufMultiplanar, cudaDestroyExternalMemory, cuDriverGetVersion, cuDeviceGetUuid, cudaSetDevice, cudaGetMipmappedArrayLevel, cudaFreeMipmappedArray, cudaImportExternalMemory, cudaCreateChannelDesc, cudaExternalMemoryGetMappedMipmappedArray, cuCtxSynchronize, cudaMemcpy2DToArray, cudaMemcpy2DFromArray
 
 ## Dependencies needed to build/run
-[NVSCI](../../../README.md#nvsci)
+[NVSCI](../../../../README.md#nvsci)
 
 ## Prerequisites
 
